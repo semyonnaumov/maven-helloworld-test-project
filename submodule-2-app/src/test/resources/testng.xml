@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Tests">
+  <test name="Tests">
+    <classes>
+      <class name="com.naumov.app.AppTest"/>
+      <class name="com.naumov.app.SimpleAppTest"/>
+    </classes>
+  </test>
+</suite>
